@@ -24,3 +24,16 @@ Following is the list of acceptable arguments with their description,
 * kasra@madadipouya.com  
 * kasra_mp@live.com  
 
+##License
+User-screen-auditing is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 3
+as published by the Free Software Foundation.
+
+User-screen-auditing is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.  <http://www.gnu.org/licenses/>
+
+Author(s):
+
+© 2015 Kasra Madadipouya <kasra@madadipouya.com>
